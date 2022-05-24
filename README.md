@@ -5,7 +5,7 @@
 ### I'am Maha Baraket :
 
 - 💻 I’m IT engineer student at TEK-UP University ...
-- 🌐 Web developer (MEAN Stack developer)
+- 🌐 Web developer (full-Stack developer)
 
 
 
