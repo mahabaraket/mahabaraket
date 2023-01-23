@@ -33,7 +33,7 @@
 
 
   <summary>:zap: Most Used Languages</summary>
-<img align="left start" alt="maha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabaraket" />
+<img align="left start" alt="maha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabaraket&theme=dracula" />
 
 
 
