@@ -29,7 +29,7 @@
 
 
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="maha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahabaraket&show_icons=true&hide_border=true&theme=gruvbox" />
+  <img align="left" alt="maha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahabaraket&show_icons=true&hide_border=true&theme=dracula" />
 
 
   <summary>:zap: Most Used Languages</summary>
