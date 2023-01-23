@@ -27,15 +27,14 @@
 <br />
 <br />
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="maha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahabaraket&show_icons=true&hide_border=true" />
-</details>
 
-<details>
+
   <summary>:zap: Most Used Languages</summary>
 <img align="left" alt="maha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabaraket" />
-</details>
+
 
 
 [![](https://visitcount.itsvg.in/api?id=mahabaraket&icon=0&color=0)](https://visitcount.itsvg.in)
