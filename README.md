@@ -4,7 +4,7 @@
 
 ### I'am Maha Baraket :
 
-- 🌐 Web developer (full-Stack developer)
+- 🌐 📱 full-Stack developer
 
 
 
